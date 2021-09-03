@@ -1,0 +1,2 @@
+nome1, email1@gmail.com
+nome2, email2@hotmail.com
