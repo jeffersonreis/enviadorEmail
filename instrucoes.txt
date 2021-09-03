@@ -1,0 +1,14 @@
+Obs.: Essa versão só funciona para GMAIL
+
+Preparos:
+1. Ative a sua conta Google (Gmail) para conectar com o servidor, permitindo a opção de App Menos Seguro, através desse link: https://encurtador.com.br/lozNZ
+2. Ative a opção de envio IMAP, dentro do próprio Gmail. Instrução: https://encurtador.com.br/avyGX
+
+
+E vamos lá!
+
+1. Baixe os 3 arquivos em uma única pasta.
+2. Altere os arquivos dos dados, conforme a estrutura atual:  nome, email@gmail.com (necessária a vírgula para separa nome e email)
+3. Insira a sua mensagem no 'mensagem.html'. Pode ser em texto normal ou HTML, costumizada. A parte que tem o '{}', é onde ficará o nome do recebedor.
+
+Com tudo feito conforme acima, basta iniciar o programa e começará a enviar os conteúdos aos emails.
